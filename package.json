@@ -1,0 +1,29 @@
+{
+  "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-alegreya",
+  "description": "Alegreya font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "alegreya-black", "alegreya-blackitalic", "alegreya-bold", "alegreya-bolditalic", "alegreya-italic", "alegreya-regular"],
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-alegreya"
+  },
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-alegreya"
+}
+
